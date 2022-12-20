@@ -1,0 +1,15 @@
+.logo{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    color: orange;
+    margin-top: 50px;
+    font-size: 30px;
+    margin: 1.2rem;
+}
+
+.logoText{
+    margin-left: 5px;
+}
+
+

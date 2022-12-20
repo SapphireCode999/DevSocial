@@ -1,0 +1,32 @@
+/* .followers{
+    margin: 1.2rem;
+} */
+
+.follow{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.followersPic{
+    max-width: 40px;
+    max-height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.followerInfo{
+    display: flex;
+    margin: 1rem;
+}
+
+.followBtn{
+    padding: 5px 15px;
+    background-color: orange;
+    border-radius: 10px;
+    border: none;
+    color: brown;
+    font-size: medium;
+    font-weight: 500;
+}
+
