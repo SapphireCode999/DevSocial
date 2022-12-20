@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DevSocial/static/css/main.da4b9ccb.css",
+    "main.js": "/DevSocial/static/js/main.6ca13def.js",
+    "index.html": "/DevSocial/index.html",
+    "main.da4b9ccb.css.map": "/DevSocial/static/css/main.da4b9ccb.css.map",
+    "main.6ca13def.js.map": "/DevSocial/static/js/main.6ca13def.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da4b9ccb.css",
+    "static/js/main.6ca13def.js"
+  ]
+}
